@@ -96,7 +96,7 @@ system_upgrade() {
 check_dependencies() {
   git_install 'https://github.com/DonatoReis/Kraken' 'kraken.sh'
   (
-    srcdir="$srcdir/NRZCode/Kraken/vendor"
+    srcdir="$srcdir/DonatoReis/Kraken/vendor"
     git_install 'https://github.com/NRZCode/progressbar'
     git_install 'https://github.com/NRZCode/bash-ini-parser'
   )
