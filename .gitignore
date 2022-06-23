@@ -1,0 +1,9 @@
+/log
+vendor
+.env
+*.log
+*.err
+package.ini
+Vagrantfile
+/resources
+signatures/jaeles/basesignatures/
