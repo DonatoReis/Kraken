@@ -18,12 +18,12 @@ Run as root
 through git
 ```sh
 git clone https://github.com/DonatoReis/kraken
-sudo kraken/install.sh httpx anonsurf assetfinder findomain subfinder aquatone dirsearch feroxbuster
+sudo kraken/install.sh httpx anonsurf amass aquatone dirsearch feroxbuster
 ```
 or through curl
 ```sh
 curl -sL https://github.com/DonatoReis/kraken/raw/master/install.sh \
-  | sudo bash -s httpx anonsurf assetfinder findomain subfinder aquatone dirsearch feroxbuster
+  | sudo bash -s httpx anonsurf amass aquatone dirsearch feroxbuster
 ```
 ### Full installation
 through git
