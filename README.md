@@ -1,7 +1,18 @@
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://imgbb.com/"><img src="https://i.ibb.co/k2cb5fw/icon.png" alt="icon" border="0" height="240" style="max-width: 100%;"></a>
+  <br>
+  <strong>Kraken - script to easy install and use reconnaissance tools</strong> 
+  <br><br>
+  <strong>Recode The Copyright Is Not Make You A Coder</strong>
+</p><br><br>
+
+
 # Kraken
-Shell script to easy install and use reconnaissance tools
-Complete shell script tool for Bug bounty or Pentest ! It will save 90% of your time when setting up your machine to work.
-It already configures all the tools for you to work, you won't need to configure it manually.
+
+#### Shell script that uses together the best and most used tools in the world to find a fault, bugs or even Pentest.
+#### Treated in the best way to facilitate use in the terminal, it contains a report in modern and easy to understand html.
+#### you can export the entire report in a zip file, and in addition it has a menu that contains all the reports already carried out in the past.
+#### light, easy and fast to use!
 
 
 1. [Installation](#installation)
@@ -55,3 +66,6 @@ kraken -f -d domain.com
     -h, --help             Show the help message and exit
     --delay                Seconds waiting between tools execution 〔 Default: 5 〕
 ```
+#
+
+### Warning: This code was originally created for personal use, it generates a substantial amount of traffic, please use with caution.
