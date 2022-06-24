@@ -9,10 +9,10 @@
 
 # Kraken
 
-#### Shell script that uses together the best and most used tools in the world to find a fault, bugs or even Pentest.
-#### Treated in the best way to facilitate use in the terminal, it contains a report in modern and easy to understand html.
-#### you can export the entire report in a zip file, and in addition it has a menu that contains all the reports already carried out in the past.
-#### light, easy and fast to use!
+#### Shell script that uses together the best and most used tools in the world to find a fault, bugs or even Pentest. Treated in the best way to facilitate use in the terminal, it contains a report in modern and easy to understand html. you can export the entire report in a zip file, and in addition it has a menu that contains all the reports already carried out in the past. light, easy and fast to use!
+
+#### by default kraken will recognize "subdomains, ports, services, technologies, subdirectories and urls"
+#### there is a list of tools available for you to use when running kraken. it returns a window with several tool options available for you to select.
 
 
 1. [Installation](#installation)
